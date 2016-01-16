@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.1.8'
 
+gem'sqlite3'
+
 gem 'bootstrap-sass', '~> 3.3.6'
 
 gem 'sass-rails', '> 3.2'
